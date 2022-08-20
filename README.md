@@ -1,2 +1,2 @@
 # virtual-assistants
-This folder is supposed to contain code for different virtual assistants (VAs) built with open source tools. Only base engine for testing purposes.
+This folder is supposed to contain code for different virtual assistants built with open source tools. The scope will be limited to base engine because of testing purposes.
